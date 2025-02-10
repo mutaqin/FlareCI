@@ -16,8 +16,8 @@ FlareCI is a lightweight and modern starter template for **CodeIgniter 4**, inte
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/mutaqin/flareci.git
-cd flareci
+git clone https://github.com/mutaqin/FlareCI.git
+cd FlareCI
 ```
 
 ### 2️⃣ Install CodeIgniter Backend
