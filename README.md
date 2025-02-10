@@ -1,12 +1,12 @@
 # FlareCI - CodeIgniter 4 Starter with TailwindCSS & DaisyUI
 
-FlareCI is a lightweight and modern starter template for **CodeIgniter 4**, integrating **TailwindCSS** and **DaisyUI** to accelerate UI development. This starter kit provides a clean and customizable foundation for building beautiful web applications with **minimal effort**.
+FlareCI is a lightweight and modern starter template for **CodeIgniter 4**, integrating **TailwindCSS 4** and **DaisyUI 5 (Beta)** to accelerate UI development. This starter kit provides a clean and customizable foundation for building beautiful web applications with **minimal effort**.
 
 ## 🚀 Features
 
 - **CodeIgniter 4** – A fast and lightweight PHP framework.
-- **TailwindCSS** – Utility-first CSS for rapid UI development.
-- **DaisyUI** – A TailwindCSS-based component library for modern UI elements.
+- **TailwindCSS 4** – Utility-first CSS for rapid UI development.
+- **DaisyUI 5 (Beta)** – A TailwindCSS-based component library for modern UI elements.
 - **Pre-configured Layouts** – Ready-to-use layouts and styles.
 - **Dark Mode Support** – Built-in theme switching with DaisyUI.
 - **Responsive & Mobile-First** – Fully optimized for all devices.
