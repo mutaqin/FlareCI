@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.0.3",
-    "@types/node": "^22.13.1",
-    "daisyui": "5.0.0-beta.6",
-    "tailwindcss": "^4.0.3",
-    "typescript": "~5.7.2",
-    "vite": "^6.1.0"
+    "@tailwindcss/vite": "^4.0.16",
+    "@types/node": "^22.13.13",
+    "daisyui": "5.0.9",
+    "tailwindcss": "^4.0.16",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.3"
   }
 }
